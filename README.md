@@ -1,1 +1,3 @@
 # Microsoft-Power-BI_Argo-users-analysis
+ Argo is leading technology company in Latin America, developing solutions to facilitate expense management and corporate travel using technology as an enabler of these processes. Our team is committed in simplifying our customers' routine, providing an efficient, innovative and seamless experience.
+  we provided a data set simulating real corporate travel systems - focusing on flights and hotels. Competitors must analyze this set with over one thousand users and 250 thousand travels to produce insights. How can Argo offer the best travel experience for its customers? Explore, invent and surprise us! 
